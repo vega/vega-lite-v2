@@ -12,7 +12,7 @@ description: Vega-Lite - a high-level grammar for statistical graphics.
   using a rule-based approach, but users can explicit specify these properties
   to override default values.
 
-baseurl: "/vega-lite" # the subpath of your site, e.g. /blog/
+baseurl: "/vega-lite-v2" # the subpath of your site, e.g. /blog/
 url: "http://vega.github.io" # the base hostname & protocol for your site
 twitter:
   username: vega_vis
